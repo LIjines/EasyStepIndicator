@@ -188,11 +188,11 @@
                                     <userDefinedRuntimeAttribute type="color" keyPath="circleTextCompleteColor">
                                         <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="showStepDescriptionTexts" value="YES"/>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="stepDescriptionTextFontSize">
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="showStepTitles" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="stepTitleFontSize">
                                         <real key="value" value="14"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="stepDescriptionTextMargin">
+                                    <userDefinedRuntimeAttribute type="number" keyPath="stepTitleMargin">
                                         <real key="value" value="5"/>
                                     </userDefinedRuntimeAttribute>
                                     <userDefinedRuntimeAttribute type="color" keyPath="lineIncompleteColor">
@@ -204,10 +204,10 @@
                                     <userDefinedRuntimeAttribute type="number" keyPath="lineStrokeWidth">
                                         <real key="value" value="4"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="color" keyPath="stepDescriptionTextIncompleteColor">
+                                    <userDefinedRuntimeAttribute type="color" keyPath="stepTitleIncompleteColor">
                                         <color key="value" systemColor="systemBrownColor" red="0.63529411759999999" green="0.51764705879999995" blue="0.36862745099999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="color" keyPath="stepDescriptionTextCompleteColor">
+                                    <userDefinedRuntimeAttribute type="color" keyPath="stepTitleCompleteColor">
                                         <color key="value" systemColor="systemIndigoColor" red="0.34509803919999998" green="0.33725490200000002" blue="0.83921568629999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
@@ -314,11 +314,11 @@
                                     <userDefinedRuntimeAttribute type="color" keyPath="circleTextCompleteColor">
                                         <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="showStepDescriptionTexts" value="YES"/>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="stepDescriptionTextFontSize">
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="showStepTitles" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="stepTitleFontSize">
                                         <real key="value" value="14"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="stepDescriptionTextMargin">
+                                    <userDefinedRuntimeAttribute type="number" keyPath="stepTitleMargin">
                                         <real key="value" value="5"/>
                                     </userDefinedRuntimeAttribute>
                                     <userDefinedRuntimeAttribute type="color" keyPath="lineIncompleteColor">
@@ -330,10 +330,10 @@
                                     <userDefinedRuntimeAttribute type="number" keyPath="lineStrokeWidth">
                                         <real key="value" value="4"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="color" keyPath="stepDescriptionTextIncompleteColor">
+                                    <userDefinedRuntimeAttribute type="color" keyPath="stepTitleIncompleteColor">
                                         <color key="value" systemColor="systemBrownColor" red="0.63529411759999999" green="0.51764705879999995" blue="0.36862745099999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="color" keyPath="stepDescriptionTextCompleteColor">
+                                    <userDefinedRuntimeAttribute type="color" keyPath="stepTitleCompleteColor">
                                         <color key="value" systemColor="systemIndigoColor" red="0.34509803919999998" green="0.33725490200000002" blue="0.83921568629999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </userDefinedRuntimeAttribute>
                                     <userDefinedRuntimeAttribute type="number" keyPath="directionRaw">
